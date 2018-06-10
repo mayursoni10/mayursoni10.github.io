@@ -1,0 +1,22 @@
+{
+  "name": "mayursoni10.github.io",
+  "version": "1.0.0",
+  "description": "my folio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mayursoni10/mayursoni10.github.io.git"
+  },
+  "author": "Mayur soni",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mayursoni10/mayursoni10.github.io/issues"
+  },
+  "homepage": "https://github.com/mayursoni10/mayursoni10.github.io#readme",
+  "dependencies": {
+    "bulma": "^0.7.1"
+  }
+}
